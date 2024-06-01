@@ -1,0 +1,24 @@
+body{
+    background:rgb(75, 85, 58);
+    color:rgb(154, 202, 72)
+}
+.heading{
+    width: 40%;
+    font-size: 25px;
+    background:rgb(4, 47, 1)!important;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.name_of_object,#result_object_name,#result_object_accuracy{
+    color:rgb(98, 255, 171);
+}
+#camera{
+    border: 2px dashed rgb(8, 69, 21);
+    width: 350px;
+    height: 300px;
+}
+#capture{
+    background:rgb(0, 147, 32)
+}
